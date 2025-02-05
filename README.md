@@ -1,16 +1,12 @@
-<img align="right" height="200" src="https://i.ibb.co.com/bRjnkspW/My-project.jpg"  />
+<img align="right" height="219" src="https://i.ibb.co.com/bRjnkspW/My-project.jpg"  />
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello there...I'm Robiul Islam, a passionate Junior Web Developer 🚀</h1>
 
 ###
 
-<h3 align="left">I'm Robiul Islam, a passionate Junior Web Developer 🚀</h3>
-
-###
-
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -22,7 +18,7 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
